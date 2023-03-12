@@ -1606,7 +1606,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 949k out of 110m users</span>
+                                    <span class="gh">ranked 950k out of 110m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -1847,14 +1847,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Mar 2023, 17:25:10 (timezone Europe/Warsaw) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Mar 2023, 18:16:37 (timezone Europe/Warsaw) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
