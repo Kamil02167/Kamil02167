@@ -1311,28 +1311,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">csCore</span>
-                                <div class="bar" style="width: 54.92000000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">69%</span>
+                                <div class="bar" style="width: 51.912000000000006%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">65%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 6.848000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">Essentials</span>
+                                <div class="bar" style="width: 4.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">CoreProtect</span>
-                                <div class="bar" style="width: 4.056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">csLobby</span>
-                                <div class="bar" style="width: 3.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Essentials</span>
-                                <div class="bar" style="width: 2.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -1341,27 +1341,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 55.488%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">69%</span>
+                                <div class="bar" style="width: 54.03200000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 6.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 7.984%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">XML</span>
-                                <div class="bar" style="width: 5.335999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 2.2880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Java Properties</span>
+                                <div class="bar" style="width: 2.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Java Properties</span>
-                                <div class="bar" style="width: 2.0559999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">PHP</span>
+                                <div class="bar" style="width: 2.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -1838,14 +1838,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2024, 00:19:07 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2024, 01:20:17 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
